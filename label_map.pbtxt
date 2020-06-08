@@ -1,0 +1,19 @@
+item {
+    id: 1
+    name: 'good'
+	display_name: 'Mask'
+}
+
+item {
+    id: 2
+    name: 'bad'
+	display_name: 'No mask'
+	
+}
+
+item {
+    id: 3
+    name: 'none'
+	display_name: 'Incorrect mask'
+	
+}
